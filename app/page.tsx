@@ -55,6 +55,7 @@ export default function Home() {
                   <TH>Phone</TH>
                   <TH>Company</TH>
                 </TR>
+              
               </THead>
               <TBody>
                 {contacts.map((c) => (
